@@ -22,33 +22,31 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'Passion',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'We are passionate about what we do and we believe that Real Estate Development can change the landscape of the markets and also to the people’s lives. We’re relentlessly focused on growth opportunities to create increased value for everyone.'
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'Value Creation',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      'We work with a purpose and the purpose is to create value for every stake holder that is associated with us, whether it is a minute detail, a complex design, or a business transaction. We have constantly evolved to the changing markets to promote a positive change.',
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Commitment',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
-    },
+'We do what we say and believe in doing the right thing. We are honest about what we think and commit only when we have conviction. We celebrate progress not just results. We believe everything we do has to be of the highest possible standard at all times.',    },
     {
-      title: 'Many new locations every month',
+      title: 'Sustainability',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
-    },
+'What some call difficult, we love doing it. We go beyond property development to creating meaningful and sustainable communities that are built to last. We care for nature and constantly the best practices to significantly reduce the negative impact on the environment.',    },
   ];
   
   // FOOTER SECTION
@@ -56,17 +54,17 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
-        'Press Releases',
-        'Environment',
-        'Jobs',
-        'Privacy Policy',
+        'Our Story',
+        'Partner With Us',
+        'Gallery',
+        'NRI',
+        'EMI Calculator',
         'Contact Us',
       ],
     },
     {
-      title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      title: 'Projects',
+      links: ['Pedda Amberpet', 'Reserve', 'Iconia','The One','Greenfield at Kommireddypally','Greenfield Nandipet','Greenfield Forever'],
     },
   ];
   
@@ -74,7 +72,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email', value: 'info@primelandindia.com' },
     ],
   };
   

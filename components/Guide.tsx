@@ -35,15 +35,21 @@ const Guide = () => {
           <div className="flexBetween flex-col">
             <div className='flex w-full flex-col'>
               <div className="flexBetween w-full">
-                <p className="regular-16 text-gray-20">Destination</p>
-                <p className="bold-16 text-green-50">48 min</p>
+                <p className="regular-16 text-gray-20">CORPORATE OFFICE:
+</p>
+                <p className="bold-16 text-green-50">Hitechcity Hyderabad, Telangana</p>
               </div>
-              <p className="bold-20 mt-2">Aguas Calientes</p>
+              <p className="bold-20 mt-2">My Home Hub, 7th Floor, Block 2, Madhapur, Hitechcity </p>
             </div>
 
             <div className='flex w-full flex-col'>
-              <p className="regular-16 text-gray-20">Start track</p>
-              <h4 className="bold-20 mt-2 whitespace-nowrap">Wonorejo Pasuruan</h4>
+            <div className="flexBetween w-full">
+                <p className="regular-16 text-gray-20">BANGALORE OFFICE:
+</p>
+                <p className="bold-16 text-green-50"> behind Rotary Club, Bengaluru, Karnataka </p>
+              </div>
+
+              <h4 className="bold-20 mt-2 whitespace-nowrap"> 40/1A, 1st floor, Basappa Complex, Lavelle Road,</h4>
             </div>
           </div>
         </div>
