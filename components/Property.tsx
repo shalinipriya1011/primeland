@@ -55,13 +55,13 @@ const Property = () => {
           backgroundImage="bg-bg-img-1"
           title="Madhapur"
           subtitle="Hitechcity,Hyderabad"
-          peopleJoined="50+ Joined"
+          peopleJoined="10k+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
           title="Basappa Complex"
           subtitle="Bengaluru, Karnataka 560001 "
-          peopleJoined="50+ Joined"
+          peopleJoined="10k+ Joined"
         />
       </div>
 
